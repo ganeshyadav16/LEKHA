@@ -5,4 +5,4 @@ Tech Stack: Frontend: Built entirely with core web technologies including HTML5,
 
 Backend & Scripting: Utilizes Python (evidenced by scripts like launch_web.py) potentially for local server-side logic or automation, alongside a dedicated backend directory.
 
-Deployment: The application is deployed and hosted on Vercel (smart-kirana-alpha.vercel.app) for fast and reliable web access.
+Deployment: The application is deployed and hosted on Vercel for fast and reliable web access.
